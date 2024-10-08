@@ -20,7 +20,21 @@ export const Footer = () => {
         pl="50px"
         pr="30px"
       >
-       
+        <Box w="32%" pl="100px" pt="30px" borderBottom="1px dotted #FFFFFF">
+          <Box color="white" lineHeight="30px">
+            <Text>Bigbasket</Text>
+            <Text>About Us</Text>
+            <Text>In News</Text>
+            <Text>Green bigbasket</Text>
+            <Text>Privacy Policy</Text>
+            <Text>Affiliate </Text>
+            <Text>Terms and Conditions</Text>
+            <Text>Careers At bigbasket</Text>
+            <Text>bb Instant</Text>
+            <Text>bb Daily</Text>
+            <Text>bb Blog</Text>
+            <Text>bbnow</Text>
+          </Box>
         </Box>
         <Box w="32%" pt="30px" pl="100px" borderBottom="1px dotted #FFFFFF">
           <Box color="white" textAlign="left">
